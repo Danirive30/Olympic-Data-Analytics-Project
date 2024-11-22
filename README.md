@@ -14,8 +14,6 @@ Este proyecto se centra en la integración, transformación y análisis de los d
 - **Entrenadores:** Incluye detalles de entrenadores por equipo y disciplina.  
 - **Participación por Género:** Total de entradas masculinas y femeninas por disciplina.  
 
-**Nota:** En el futuro, el dataset será ampliado con datos adicionales como medallas obtenidas (oro, plata, bronce) y estadísticas más detalladas de los atletas.  
-
 ## Herramientas y Tecnologías Utilizadas  
 - **Azure Data Factory:** Para la ingestión de datos.  
 - **Azure Data Lake Gen 2:** Para el almacenamiento centralizado de datos en su formato bruto y transformado.  
